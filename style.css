@@ -1,0 +1,32 @@
+body{
+	background:#d8f7be
+}
+h1#article-title {
+  font-family: Georgia, serif;
+  color: #126084;
+}
+p.red {
+  color: red;
+  font-size: 20px;
+}
+a {
+  color: green;
+  font-style: italic;
+}
+#article-title {
+    text-align: center;
+}
+.tab{
+	border: 2px solid black;
+}
+
+td{
+	width: 50px;
+	height: 50px;
+	border: 2px solid black;
+}
+tr{
+	width: 50px;
+	height: 50px;
+
+}
